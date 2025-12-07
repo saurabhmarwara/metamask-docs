@@ -5,7 +5,7 @@ keywords: [connect, MetaMask, React, Native, SDK, dapp]
 ---
 
 import Tabs from "@theme/Tabs";
-import TabItem from "@theme/TabItem";
+import TabItem from "@theme/TabItem";  
 
 # Connect to MetaMask using React Native
 
